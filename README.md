@@ -1,99 +1,52 @@
-![logo](https://github.com/Waqar-cyberSecurity/Waqar-cyberSecurity/blob/main/Digital%20Cybersecurity%20Interface%20Design.png)
-
+![logo](https://i.pinimg.com/originals/e9/ea/34/e9ea347d7bc199e10ac7f1592ce8abe5.gif)
 
 # 💫 About Me  
 
-I am a **Cybersecurity Professional & SOC Analyst** with hands-on experience in **Threat Hunting, Incident Response & Security Automation**.  
-I also have practical knowledge of **DevOps, Cloud Security & AI**, building labs and projects to strengthen my skills.  
-Passionate about continuous learning, I believe in *learning by doing* and sharing my work with the community.  
+I am **Huzaifa Khan**, a passionate **Pentester & Ethical Hacker** with a strong interest in **SOC Analysis, GRC, and Information Security standards (ISO 27001, NIST, OSSTMM, OWASP)**.  
+I focus on building practical skills, creating labs, and learning by doing to strengthen my cybersecurity knowledge.  
 
-📧 Email: @gmail.com  
-
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e9/ea/34/e9ea347d7bc199e10ac7f1592ce8abe5.gif">
+📧 Email: [khanusaid204@gmail.com](mailto:khanusaid204@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/huzaifa-khan-75b5ab2b4](https://www.linkedin.com/in/huzaifa-khan-75b5ab2b4)  
 
 ---
 
 ## 🌐 Socials  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](..h.)  
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](...h)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hus@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huzaifa-khan-75b5ab2b4)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khanusaid204@gmail.com)  
 
 ---
 
-# 💻 Tools & Technologies
+# 💻 Skills & Tools
+
+**Networking & Systems:**  
+![CCNA](https://img.shields.io/badge/CCNA-0078D6?style=for-the-badge&logo=cisco&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)  
 
 **Programming & Scripting:**  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)  
 
-**Operating Systems & Platforms:**  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-**Cloud & Virtualization:**  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
-![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)
-
-**DevOps & Automation:**  
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) 
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
-![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) 
-
-**SOC & Security Tools:**  
-![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) 
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) 
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) 
-![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white) 
-
-**Networking & Databases:**  
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) 
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+**Cybersecurity & GRC:**  
+![SOC](https://img.shields.io/badge/SOC-FF6F61?style=for-the-badge)  
+![GRC](https://img.shields.io/badge/GRC-008080?style=for-the-badge)  
+![ISO 27001](https://img.shields.io/badge/ISO27001-007ACC?style=for-the-badge)  
+![NIST](https://img.shields.io/badge/NIST-FFD700?style=for-the-badge)  
+![OSSTMM](https://img.shields.io/badge/OSSTMM-4B0082?style=for-the-badge)  
+![OWASP](https://img.shields.io/badge/OWASP-FF4500?style=for-the-badge)  
 
 ---
 
-## 📜 Training & Knowledge  
-- EduQual **RQF Level 6 in Cybersecurity** *(equivalent to a Bachelor's degree)*  
-- Knowledge of **ISO 27001 / 27017 / 27018** (Implementation & Auditing)  
-- Knowledge of **NIST 800-82 & ISO 27019:2017** (SCADA / ICS Security)  
-- Familiar with **PCI DSS Compliance & CISSP Concepts**  
-- Hands-on practice with **SOC Tools (Splunk, ELK, QRadar)**  
+# 📝 Projects / Labs
 
----
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
-# 📊 GitHub Stats  
-![Stats](https://github-readme-stats.vercel.app/api?username=Waqar-cyberSecurity&show_icons=true&theme=dark&rank_icon=github&cache_seconds=21600)  
-
-![Streak](https://streak-stats.demolab.com?user=Waqar-cyberSecurity&theme=dark&date_format=j%20M%5B%20Y%5D&mode=weekly)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Waqar-cyberSecurity&layout=compact&theme=dark&langs_count=8)  
+- **Lab: Network Penetration Testing** – Testing and securing simulated networks.  
+- **Lab: SOC Analysis** – Incident detection, response, and reporting.  
+- **Python & Bash Scripts** – Automation scripts for security testing and monitoring.  
 
 ---
 
-## 📂 Featured Labs & Projects  
-- 🔒 [Python Lab](https://github.com/Waqar-cyberSecurity/python-lab) → Simple Python script for cybersecurity practice  
-- 🐍 [Bash Lab](https://github.com/Waqar-cyberSecurity/bash-lab) → Basic Bash script for SOC automation  
-- 📦 [Docker Lab](https://github.com/Waqar-cyberSecurity/docker-lab) → Sample Dockerfile for container basics  
+# 🎯 Passion & Goals
 
-💡 More labs and security projects coming soon...  
-
----
-
-## 💡 Quote I Believe In  
-*"Security is not a product, but a process."* – Bruce Schneier  
-
----
-
-## 📫 How to Reach Me  
-📧 Email: h@gmail.com  
-💼 LinkedIn: [waqar-hussain-c](h)  
-🐦 Twitter/X: [h](h)
+- Become a **Pentester & Ethical Hacker**  
+- Gain hands-on experience in **SOC Analysis & GRC Compliance**  
+- Master **security standards and frameworks** (ISO, NIST, OSSTMM, OWASP)  
