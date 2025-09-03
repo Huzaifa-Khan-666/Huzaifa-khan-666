@@ -98,9 +98,3 @@ I work with standards like **ISO 27001, NIST, OSSTMM, OWASP**, building labs, to
 - Build **open-source cybersecurity tools and labs**  
 
 ---
-
-### ✅ Instructions:
-
-1. Create `README.md` in your GitHub profile repository (`username/username`)  
-2. Replace `Huzaifa-Khan` in GitHub stats URLs with your actual GitHub username if different  
-3. Save & commit → README will show beautifully on your GitHub profile  
